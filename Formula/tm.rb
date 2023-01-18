@@ -1,4 +1,4 @@
-class Hello < Formula
+class Tm < Formula
     desc "A simple greeter"
     homepage "https://github.com/testmaan/tm-cli"
     url "https://github.com/testmaan/tm-cli/releases/download/1.0.0/tm-macos-x64.tar.gz"
