@@ -2,7 +2,7 @@ class Tm < Formula
     desc "TestMan CLI Tool to generate automation test cases"
     homepage "https://github.com/testmanio/homebrew-tm"
     url "https://github.com/testmanio/homebrew-tm/releases/download/1.4.8/tm-macos-x64-1.4.8.tar.gz"
-    sha256 "182e94100d41599ae6bac18d6da997aa609aba2ee020905ca58e00ff1cf5ec40"
+    sha256 "91f6232abd7756983809477d46cd5312e666600edfe7556246be75715be19ce9"
     version "1.4.8"
     def install
       bin.install "tm"
